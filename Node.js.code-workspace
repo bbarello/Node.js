@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../source/auto-counter"
+		},
+		{
+			"path": "../../../source/chat-app"
+		}
+	],
+	"settings": {}
+}
